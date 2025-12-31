@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Career/Game Development/Unreal Projects/WW2-Realistic-Shooter/HellLetLooser/Content/Gameplay/Characters/ThirdPerson/NPC/BP_TestAI.uasset",
+				"D:/Career/Game Development/Unreal Projects/WW2-Realistic-Shooter/HellLetLooser/Content/Gameplay/Characters/ThirdPerson/NPC/BP_TestAIController.uasset",
+				"D:/Career/Game Development/Unreal Projects/WW2-Realistic-Shooter/HellLetLooser/Content/Gameplay/Characters/Player_FPS/BP_BasePlayer.uasset",
+				"D:/Career/Game Development/Unreal Projects/WW2-Realistic-Shooter/HellLetLooser/Content/Gameplay/Characters/BP_BaseCharacter.uasset",
+				"D:/Career/Game Development/Unreal Projects/WW2-Realistic-Shooter/HellLetLooser/Content/Gameplay/Characters/ThirdPerson/NPC/ABP_NPC.uasset",
+				"D:/Career/Game Development/Unreal Projects/WW2-Realistic-Shooter/HellLetLooser/Content/Levels/TestLevel.umap",
+				"D:/Career/Game Development/Unreal Projects/WW2-Realistic-Shooter/HellLetLooser/Content/Gameplay/Characters/Player_FPS/Animations/ABP_Player_Arms.uasset",
+				"D:/Career/Game Development/Unreal Projects/WW2-Realistic-Shooter/HellLetLooser/Content/Gameplay/WorldObjects/Assets/MP_40_-_WW2_Submachine_Gun/mp_40_ww2_submachine_gun.uasset",
+				"D:/Career/Game Development/Unreal Projects/WW2-Realistic-Shooter/HellLetLooser/Content/Gameplay/WorldObjects/Interactables/Placed/BP_AmmoBox.uasset"
+			]
+		}
+	]
+}
